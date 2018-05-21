@@ -157,11 +157,6 @@ int main(int argc, char* argv[])
 		printf("Press e to exit, or anything else to continue\n");
   		scanf(" %c", &exit);
 	}
-	
-	//Searching for the numbers 10 and 15
-	//BFS(root, 10);
-	//found = 0;		//resetting the boolean variable
-	//BFS(root, 15);
 	return 0;
 }
 
